@@ -1,5 +1,3 @@
-# coding=utf-8
-
 import unittest2 as unittest
 import sys, logging, socket, os
 from raygun4py import raygunprovider
